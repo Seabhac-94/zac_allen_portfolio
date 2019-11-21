@@ -3,7 +3,7 @@
 ## Overview
 
 
-I am currently studying Full-Stack Software Development with the Code Institute (accredited by Edinburgh University). Currently, I am on course to finish early December 2019. So far I have completed two of four milestone projects, User- Centric Frontend Development utilising HTML5, CSS3 and Bootstrap4, and Interactive Frontend Development utilising HTML5, CSS3, Bootstrap4, JavaScript and jQuery in which I achieved 82% and 85% respectively. I have since gained many more skills in the Software Industry including Python, MySQL & MongoDB, and have just completed my 3rd Milestone Project, a Data-Centric- Development project utilising HTML5, CSS3, Bootstrap4, MongoDB & Python with result to come shortly.
+I am currently studying Full-Stack Software Development with the Code Institute (accredited by Edinburgh University). Currently, I am on course to finish early December 2019. So far I have completed three of four milestone projects, User- Centric Frontend Development utilising HTML5, CSS3 and Bootstrap4, and Interactive Frontend Development utilising HTML5, CSS3, Bootstrap4, JavaScript and jQuery, and a Data-Centric- Development project utilising HTML5, CSS3, Bootstrap4, MongoDB & Python in which I achieved 82%, 85% and 82% respectively. 
 
 ## Education History
 
