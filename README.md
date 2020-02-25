@@ -3,11 +3,47 @@
 ## Overview
 
 
-I am currently studying Full-Stack Software Development with the Code Institute (accredited by Edinburgh University). Currently, I am on course to finish early December 2019. So far I have completed three of four milestone projects, User- Centric Frontend Development utilising HTML5, CSS3 and Bootstrap4, and Interactive Frontend Development utilising HTML5, CSS3, Bootstrap4, JavaScript and jQuery, and a Data-Centric- Development project utilising HTML5, CSS3, Bootstrap4, MongoDB & Python in which I achieved 82%, 85% and 82% respectively. 
+Software Developer/Frontend Developer for Crua Outdoors/Industrial.
+<br>
+Former Merchant Navy Officer with strong background in Oil and Gas Industry.
+
+## Work History
+
+<b>Dates:</b> January '20 - Present
+<br>
+<b>Company:</b> Crua Outdoors/Industrial
+<br>
+<b>Position:</b> Software Developer/Frontend Developer
+<br>
+<b>Overview:</b>
+Sole Software Designer for one of the worlds leading insulated tent manufacturers, duties included:
+- Worked with Designer to re-design main site.
+- Implemented any changes utilising HTML, CSS, JavaScript and Liquid code.
+- Continuously tested and improved site speed.
+- Bug fixes.
+- Worked with SayDuck to design and implement 3d Model, AR Functionality and personalised Configurator on site.
+- Worked with CEO, Marketing Manager and Designer on various Kickstarter, Seedrs and Indiegogo campaigns.
+
+
+<b>Dates:</b> March ’17 - May ‘19
+<br>
+<b>Company:</b> Chevron Transport Co. - Assigned to Liquified Natural Gas Carrier Fleet
+<br>
+<b>Position:</b> 3rd Officer (Officer in Charge of Navigational Watch)
+<br>
+<b>Overview:</b>
+- Primary Navigation Officer - responsible for safe navigation, passage planning, and all Radio Equipment and Navigation Systems on board. Troubleshoot any technical issues, and perform required maintenance.
+- Cargo Officer - meet with shore-side teams on arrival in port and maintain customer relations, along with being responsible for safe loading and unloading of hazardous cargo.
+- Facility Contact - main contact between ship and shore. Maintain communications between navigation & radio equipment providers.
+- Assist Captain in day to day running of vessel and crew
+- Safety Officer - perform safety inspections and maintenance on
+dedicated Life Saving Appliances and Fire Fighting Equipment.
+- Deck Officer - take charge of multiple hazardous vessel operations
+including mooring, anchoring and crane operations.
 
 ## Education History
 
-<b>Dates:</b> June 2019 - December 2019 (Planned)
+<b>Dates:</b> June 2019 - Present
 <br>
 <b>College:</b> Code Institute
 <br>
@@ -35,6 +71,10 @@ Officer of the Watch - Navigation & Cargo: Unlimited <br>Global Maritime Distres
 - Materialise CSS
 - GitHub
 - Python
+- Liquid Code
+- Shopify
+- PageFly Design
+- Wordpress
 - Flask Frameworks
 - MySQL
 - MongoDB
@@ -74,20 +114,3 @@ For launched site visit: <a href="https://share-a-script.herokuapp.com/">Share a
 For repository visit: <a href="https://github.com/Seabhac-94/share_a_script">Share a Script - Github</a>
  
 
-## Work History
-
-<b>Dates:</b> March ’17 - May ‘19
-<br>
-<b>Company:</b> Chevron Transport Co. - Assigned to Liquified Natural Gas Carrier Fleet
-<br>
-<b>Position:</b> 3rd Officer (Officer in Charge of Navigational Watch)
-<br>
-<b>Overview:</b>
-- Primary Navigation Officer - responsible for safe navigation, passage planning, and all Radio Equipment and Navigation Systems on board. Troubleshoot any technical issues, and perform required maintenance.
-- Cargo Officer - meet with shore-side teams on arrival in port and maintain customer relations, along with being responsible for safe loading and unloading of hazardous cargo.
-- Facility Contact - main contact between ship and shore. Maintain communications between navigation & radio equipment providers.
-- Assist Captain in day to day running of vessel and crew
-- Safety Officer - perform safety inspections and maintenance on
-dedicated Life Saving Appliances and Fire Fighting Equipment.
-- Deck Officer - take charge of multiple hazardous vessel operations
-including mooring, anchoring and crane operations.
