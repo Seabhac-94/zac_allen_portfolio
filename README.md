@@ -43,7 +43,14 @@ including mooring, anchoring and crane operations.
 
 ## Education History
 
-<b>Dates:</b> June 2019 - Present
+<b>Dates:</b> June 2020 - Present
+<br>
+<b>Course Provider:</b> Udemy
+<br>
+<b>Course:</b> Ethical Hacking
+<br>
+<br>
+<b>Dates:</b> June 2019 - June 2020
 <br>
 <b>College:</b> Code Institute
 <br>
@@ -76,6 +83,7 @@ Officer of the Watch - Navigation & Cargo: Unlimited <br>Global Maritime Distres
 - PageFly Design
 - Wordpress
 - Flask Frameworks
+- Django Frameworks
 - MySQL
 - MongoDB
 - Responsive Web Design
@@ -105,7 +113,7 @@ For launched site visit: <a href="https://seabhac-94.github.io/southpaw_comedy/"
 For repository visit: <a href="https://github.com/Seabhac-94/southpaw_comedy">SouthPaw Comedy - Github</a>
 
 ### Share a Script
-Milestone Project 3, and my most recent work.
+Milestone Project 3.
 <br>
 Utilising HTML5, CSS3, Bootstrap, Python, Flask Frameworks, MongoDB and Bcrypt, I created a fully responsive site where authors, can create an account/login, and share their work with the world. Initially, to populate the site, famous pieces of literature were used, and these will be removed once authors begin to fill the site with their own work.
 <br>
@@ -114,3 +122,11 @@ For launched site visit: <a href="https://share-a-script.herokuapp.com/">Share a
 For repository visit: <a href="https://github.com/Seabhac-94/share_a_script">Share a Script - Github</a>
  
 
+### Shutter
+Milestone Project 4
+<br>
+Utilsing HTML5, CSS3, Bootstrap, Python, Django Frameworks and MySql, I created a full responsive e-commerce store, that allowed users to add products to cart, and checkout with them. The site also contains a fully functioning careers section where applicants can apply for job postings set by the company.
+<br>
+For launched site visit: <a href="https://shutter-ecommerce.herokuapp.com/">Zac Allen Photography</a>
+<br>
+For repository visit: <a href="https://github.com/Seabhac-94/shutter">Zac Allen Photography - Github</a>
