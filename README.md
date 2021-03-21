@@ -9,6 +9,15 @@ Former Merchant Navy Officer with strong background in Oil and Gas Industry.
 
 ## Work History
 
+<b>Dates:</b> Novemeber '20 - Present
+<br>
+<b>Company:</b> Adyen
+<br>
+<b>Position:</b> Technical Support Engineer - E-commerce Integrations Specialist
+<br>
+
+--
+
 <b>Dates:</b> January '20 - Present
 <br>
 <b>Company:</b> Crua Outdoors/Industrial
@@ -24,6 +33,7 @@ Sole Software Designer for one of the worlds leading insulated tent manufacturer
 - Worked with SayDuck to design and implement 3d Model, AR Functionality and personalised Configurator on site.
 - Worked with CEO, Marketing Manager and Designer on various Kickstarter, Seedrs and Indiegogo campaigns.
 
+--
 
 <b>Dates:</b> March ’17 - May ‘19
 <br>
