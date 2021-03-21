@@ -2,8 +2,8 @@
 
 ## Overview
 
-
-Software Developer/Frontend Developer for Crua Outdoors/Industrial.
+Technical Support Engineer, focused on E-Commerce Integrations with Adyen, with experience as Software/Frontend Developer.
+<br>
 <br>
 Former Merchant Navy Officer with strong background in Oil and Gas Industry.
 
@@ -100,7 +100,7 @@ Officer of the Watch - Navigation & Cargo: Unlimited <br>Global Maritime Distres
 - Visual Studio Code
 - AWS Cloud 9
 - Heroku
-- Django (in progress)
+- Django
 
 ## Projects
 
@@ -135,8 +135,8 @@ For repository visit: <a href="https://github.com/Seabhac-94/share_a_script">Sha
 ### Shutter
 Milestone Project 4
 <br>
-Utilsing HTML5, CSS3, Bootstrap, Python, Django Frameworks and MySql, I created a full responsive e-commerce store, that allowed users to add products to cart, and checkout with them. The site also contains a fully functioning careers section where applicants can apply for job postings set by the company.
+Utilsing HTML5, CSS3, Bootstrap, Python, Django Frameworks and MySql, I created a fully responsive e-commerce store, that allowed users to add products to cart, and checkout with them. The site also contains a fully functioning careers section where applicants can apply for job postings set by the company.
 <br>
-For launched site visit: <a href="https://shutter-ecommerce.herokuapp.com/">Zac Allen Photography</a>
+For launched site visit: <a href="https://shutter-ecommerce.herokuapp.com/">Shutter</a>
 <br>
-For repository visit: <a href="https://github.com/Seabhac-94/shutter">Zac Allen Photography - Github</a>
+For repository visit: <a href="https://github.com/Seabhac-94/shutter">Shutter - Github</a>
