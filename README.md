@@ -22,7 +22,6 @@ Former Merchant Navy Officer with strong background in Oil and Gas Industry.
 - Wrote code to replicate errors on merchants side, and suggested changes to merchant or internally depending on error type
 - Worked with Postman and APIs calls to Adyen platform to recreate and pinpoint errors
 - Integrated webhooks to my own custom Adyen integration to have full overview of platform capabilities
-- Worked on and built internal tools using Python to help improve operational scalability
 - Investigated errors with payments and provided merchants with feedback on any errors/reasons
 
 
